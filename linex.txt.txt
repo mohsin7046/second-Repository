@@ -1,1 +1,1 @@
-Git and github was made in unix which was made by linux todward.
+The Git and github was made in unix which was made by linux todward.
